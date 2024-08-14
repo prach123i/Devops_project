@@ -1,5 +1,5 @@
-class data{
+class jenki{
 public static void main(String[] args){
-Syatem.out.println("Hello world");
+System.out.println("Hello world");
 }
 }
